@@ -64,8 +64,8 @@ ouvindo: https://open.spotify.com/playlist/7K3scENpOi7ZPZUHfnfic3
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cauanr935-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauanr935-cmd&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
+<img src="https://github-stats-extended.vercel.app/api?username=cauanr935-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=cauanr935-cmd&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
 
 <br/>
 
@@ -79,9 +79,11 @@ ouvindo: https://open.spotify.com/playlist/7K3scENpOi7ZPZUHfnfic3
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/cauanr935-cmd/cauanr935-cmd/output/github-contribution-grid-snake.svg" width="80%" />
-
-<sub>gerado automaticamente — configure a <a href="https://github.com/Platane/snk">snk action</a> no seu repo pra essa cobrinha comer seus commits sozinha</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cauanr935-cmd/cauanr935-cmd/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cauanr935-cmd/cauanr935-cmd/output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/cauanr935-cmd/cauanr935-cmd/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
