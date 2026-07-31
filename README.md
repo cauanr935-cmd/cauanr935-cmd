@@ -23,7 +23,7 @@
 $ whoami
 ```
 
-Não vim aqui te entregar um currículo. Isso aqui é só a porta de entrada —
+Não vim aqui te entregar um currículo. Isso aqui é só a porta de entrada,
 um lugar pra explorar o que eu ando construindo, quebrando e aprendendo.
 Se você quer saber onde eu trabalho, pergunta. Se quer saber o que eu ando
 _fazendo_, dá um scroll.
